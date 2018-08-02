@@ -34,8 +34,10 @@
     
     <profiles>
         <profile>
+            <properties>
             <id>soanr</id>
                 <url>http://18.220.185.246:9000</url>
+                </properties>
             </profile>
         </profiles>
     
