@@ -32,6 +32,13 @@
         
     </dependencies>
     
+    <profiles>
+        <profile>
+            <id>soanr</id>
+                <url>http://18.220.185.246:9000</url>
+            </profile>
+        </profiles>
+    
 
     <properties>
         <java.version>1.8</java.version>
